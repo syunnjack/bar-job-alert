@@ -8,7 +8,7 @@ Recommended repository name: `bar-job-alert`
 
 ## Domain candidates
 
-First candidate: `barjobalert.jp`
+Confirmed domain: `barjobalert.jp`
 
 Other candidates:
 
