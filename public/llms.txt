@@ -1,0 +1,7 @@
+# Bar Job Alert
+
+バー、飲食、夜職の求人、面接枠、体験入店、喫煙可店舗情報を通知し、成果報酬へつなげる。
+
+Notification channels: LINE, X, email, Slack
+Revenue: 求人成果報酬, 面接予約, 店舗掲載, 広告, LINE課金
+Primary categories: バー求人, 飲食求人, 夜職, 面接, 体験入店
