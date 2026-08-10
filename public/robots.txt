@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://barjobalert.jp/sitemap.xml
+
+Sitemap: https://bar-job-alert.vercel.app/sitemap.xml
